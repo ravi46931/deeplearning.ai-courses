@@ -1,0 +1,23 @@
+Short courses of Deeplearning.ai
+(1) ChatGPT Prompt engineering for developers, Biginner to advance, Isa fulford; Andrew Ng
+(2) Building systems with the ChatGPT API, Beginner to Advance, Isa fulford; Andrew Ng
+(3) Langchain for LLM application development, beginner, Harrison chase; Andrew Ng
+(4) Langchain: Chat with your data, Beginner, Harrison chase
+(5) Finetuning large language models, Intermediate, Sharon Zhou
+(6) Large language models with semantic search, Beginner, jay Alammau; Lui Serrano
+(7) Building generative AI applications with Gradio, Begginer, Apolinario Passas
+(8) Evaluating and debugging generative AI models using weights and biases, Intermediate, Carey Phelps, Prerequisite: Python, pytorch or similar framework.
+(9) How diffusion models work, Intermediate, Sharon Zhou, Prerequisite: Python, Tensorflow or Pytorch.
+(10) Building applications with vector databases, Beginner, Tim tully, Prerequisite: Python, Ml, LLM
+(11) Automated testing for LLMOps, Intermediate, Rob Zuber, Prerequisite: familiar with building LLM based applications.
+(12) LLMOps, Beginner, Erusin Huizenga.
+(13) Build LLM apps with langchain.js, Intermediate, Jacob Ree, Prerequisite: Intermediate JavaScript knowledge.
+(14) Advanced retrieval for AI with chroma, Intermediate, Anton Troynikov.
+(15) Reinforcement learning from human feedback, Intermediate, Nikita Namjoshi, Prerequisite: Intermediate Python.
+(16) Building and evaluating advanced RAG applications, Beginner, Jerry Lin;Anupam Datta.
+(17) Quality and safety for LLM applications, Beginner, Bernease Herman
+(18) Vector databases: from embeddings to applications, Intermediate, Sebastian Witalec
+(19) Functions, Tools and Agents with Langchain, Intermediate, Harrison chase, Prerequisite: familarity with writing prompts for LLM.
+(20) Pair programming with a large language model, Beginner, Laurence moroney
+(21) Understanding and applying text embeddings, Beginner, Nikita Namjoshi; Andrew Ng
+(22) How business thinkers can start building AI Plugins with semantic kernel, Beginner, John Maeda

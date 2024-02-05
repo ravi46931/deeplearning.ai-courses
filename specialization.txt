@@ -1,0 +1,232 @@
+Deeplearning.ai apecialization
+
+Introductory
+
+(1) Machine learning specialization (three courses) [Andrew Ng]
+	(1) Supervised Machine Learning: Regression and classification
+		(a) Introduction to ML
+		(b) Regression with multiple input variables
+		(c) Classification
+	(2) Advanced Learning Algorithms
+		(a) Neural Networks
+		(b) Neural Network training
+		(c) Advice for applying Machine Learning
+		(d) Decision trees
+	(3) Unsupervised learning, recommenders, reinforcement learning
+		(a) Unsupervised learning
+		(b) Recommender Systems
+		(c) Reinforcement Learning
+
+(2) AI for Everyone (1 course) [Andrew Ng]
+	(a) What is AI?
+	(b) Building AI Projects
+	(c) Building AI in your company
+	(d( AI and society
+
+(3) AI for Good Specialization (3 courses) [Robert Monarch]
+	(1) AI and Public Health
+		(a) Introduction to AI for Good
+		(b) AI for Good Project Framework
+		(c) Air quality in Bogota Colombia
+	(2) AI and climate change
+		(a) Introduction to AI and Climate Change
+		(b) Wind Power forecasting
+		(c) Monitoring biodiversity
+		(d) Monitoring biodiversity loss
+	(3) AI and disaster management
+		(a) Introduction to AI and disaster management
+		(b) Satellite Imagery to detect disaster locations
+		(c) Analyzing text data to gain insights
+		
+(4) Generative AI for everyone (1 courses) [Andrew ng]
+	(a) Introduction to Generative AI
+	(b) Generative AI Projects
+	(c) Generative AI in business and society
+	
+(5) Mathematics for Machine learning and data science specialization (3 courses) [Many Instructor]
+	(1) Linear Algebra for Machine Learning and data science
+		(a) Systems of Linear equations
+		(b) Solving systems of linear equations
+		(c) Vectors and linear transformations
+		(d) Determinants and eigenvectors
+	(2) Calculus for Machine Learning and data science
+		(a) Derivatives ahnd Optimizations
+		(b) Gradients and gradient descent
+		(c) optimization in Neural Networks and Newton's method
+	(3) Probability & Statistics for Machine Learning & Data Science
+		(a) Introduction to Probability and Probability Distributions
+		(b) Describing Probability Distributions and Probability Distributions with Multiple Variables
+		(c) Sampling and point estimation
+		(d) Confidence Intervals and Hypothesis Testing
+		
+INTERMEDIATE
+
+(1) Deep Learning Specialization (5 courses) [Andrew ng, Y.B. Mourri, Kian K.]
+	(1) Neural Networks and Deep Learning
+		(a) Introduction to Deep Learning
+		(b) Neural Networks Basics
+		(c) Shallow Neural Networks
+		(d) Deep Neural Networks
+	(2) Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimizations
+		(a) Practical Aspects of Deep Learning
+		(b Optimization Algorithms
+		(c) Hyperparameter Tuning, Batch Normalization and Programing Frameworks
+	(3) Structuring Machine Learning Projects
+		(a) ML Strategy
+		(b) ML Strategy
+	(4) Convolutional Neural Networks
+		(a) Foundations of Convolutional Neural Networks
+		(b) Deep Convolutional Models: Case Studies
+		(c) Object Detection
+		(d) Special Applications: Face Recognition & Neural Style Transfer
+	(50 Sequence Models 
+		(a) Recurrent Neural Networks
+		(b) Natural Language Processing & Word Embeddings 
+		(c) Sequence Models & Attention Mechanism
+		(d) Transformer Network
+		
+(2) Natural Language Processing Specialization (4 courses) 
+	(1) Natural Language Processing with Classification and Vector Spaces
+		(a) Sentiment Analysis with Logistic Regression
+		(b) Sentiment Analysis with Naive Bayes
+		(c) Vector Space Models
+		(d) Machine Translation and Document Search
+	(2) Natural Language with Probabilistic Models
+		(a) Autocorrect
+		(b) Part of Speech Tagging and Hidden Markov Models
+		(c) Autocomplete and Language Models
+		(d) Word Embeddings with Neural Networks
+	(3) Natural Language Processing with Sequence Models
+		(a) Recurrent Neural Networks for Language Modeling
+		(b) LSTMs and Named Entity Recognition
+		(c) Siamese Networks
+	(4) Natural Language Processing with Attention Models
+		(a) Neural Machine Translation
+		(b) Text Summarization
+		(c) Question Answering
+
+(3) AI for Medicine Specialization (3 courses) 
+	(1) AI for Medical Diagnosis
+		(a) Disease Detection with Computer Vision
+		(b) Evaluating Models
+		(c) Image Segmentation on MRI images
+	(2) AI for Medical Prognosis
+		(a) Linear Prognostic Models
+		(b) Prognosis with tree Based Models
+		(c) Survival Models and Time
+		(d) Build a risk Model using Lines and Tree-based Models
+	(3) AI for Medical Treatment
+		(a) Treatment Effect Estimation
+		(b) Medical Question Answering
+		(c) ML Interpretation
+		
+(4) TensorFlow: data and Deployment Specialization (4 courses) [Laurence Moroney]
+	(1) Browser-Based Models with TensorFlow.js
+		(a) Introduction to TensorFlow.js
+		(b) Image Classification in the Browser
+		(c) Converting Models to JSON Format
+		(d) Transfer Learning with Pre-trained Models
+	(2) Device-Based Models with TensorFlow Lite
+		(a) Device-Based Models with TensorFlow Lite
+		(b) Running a TF Model in an Android App
+		(c) Building the TensorFlow Model on IOS
+		(d) TensorFlow Lite on Devices
+	(3) Data Pipelines with TensorFlow Data Services
+		(a) Data Pipelines with TensorFlow Data Services
+		(b) Splits and Slices API for Datasets in TF
+		(c) Exporting Your Data into the Training Pipeline
+		(d) Performance
+	(4) Advanced Deployment Scenarios with TensorFlow
+		(a) TensorFlow Extended
+		(b) Sharing Pre-trained Models with TensorFlow hub
+		(c) Tensorboard: Tools for Model Training
+		(d) Federated Learning
+		
+(5) TensorFlow Developer Professional Certificate (4 courses) [Laurence Moroney]
+	(1) Introduction to TensorFlow for Artificial Intelligence Machine Learning, and Deep Learning
+		(a) A New Programing Paradigm
+		(b) Introduction to Computer Vision
+		(c) Enhancing Vision with Convolutional Neural Networks
+		(d) Using Real-World Images
+	(2) Convolutional Neural Networksin TensorFlow
+		(a) Exploring a Larger dataset
+		(b) Augmentation: A Technique to Avoid Overfitting
+		(c) Transfer Learning
+		(d) Multiclass Classification
+	(3) Natural Language Processing in TensorFlow
+		(a) Sentiment in Text
+		(b) Word Embeddings 
+		(c) Sequence Models
+		(d) Sequence Models and Literature
+	(4) Sequences, Time Series and Prediction
+		(a) Sequences and Prediction
+		(b) Deep Neural Networks for Time Series
+		(c) Recurrent Neural Networks for Time Series
+		(d) Real-World Time Series Data
+	
+(6) Generative Adversarial Networks(GANs) Specialization (3 courses) 
+	(1) Build Basic Generative Adversarial Networks(GANs)
+		(a) Introduction to GANs
+		(b) Deep Convolutional GANs
+		(c) Wassertein GANs with Gradient Penalty
+		(d) Conditional GAN & Controlable Generation
+	(2) Build Better Generative Adversarial Networks (GANs)
+		(a) Evaluation of GANs
+		(b) GAN Disadvantages and Bias
+		(c) Style GAN and Advancements
+	(3) Apply Generative Adversarial Networks (GANs)
+		(a) GANs for Data Augmentation and Privacy
+		(b) Image-to-Image Translation with pix2pix
+		(c) Unpaired Translation with CycleGAN
+		
+(7) TensorFlow: Advanced Technique Specialization (4 courses) [Laurence Moroney, Eddy Shyu]
+	(1) Custom Models, Layers, and Loss Functions with TensorFlow
+		(a) Functional APIs
+		(b) Custom Loss Functions
+		(c) Custom Layers
+		(d) Custom Models
+		(e) Bonus Content-Callbacks
+	(2) Custom and Distributed Training with TensorFlow
+		(a) Differentiation and gradients
+		(b) Custom Training
+		(c) Graph Mode
+		(d) Distributed Training
+	(3) Advanced computer Vision with TensorFlow
+		(a) Introduction to Computer Vision
+		(b) Object Detection
+		(c) Image Segmentation
+		(d) Visualization and Interpretability
+	(4) Generative Deep Learning with TensorFlow
+		(a) Style Transfer
+		(b) AutoEncoders
+		(c) Variational AutoEncoders
+		(d) GANs
+		
+(8) Generative AI with LLMs (1 course)
+
+ADVANCED
+
+(1) Machine Learning Engineering for Production (MLOps) Specialization (4 courses) [Andrew ng, Laurence Moroney and 2 others]
+	(1) Introduction to Machine Learning in Production
+		(a) Overview of the ML Lifecycle and deployment
+		(b) Select and train a Model
+		(c) Data Definition and Baseline
+	(2) Machine Learning Data lifecycle in Production
+		(a) Collecting, Labelling, and Validating Data
+		(b) Feature Engineering, Transformation, and Selection
+		(c) Data Journey and Data Storage
+		(d) Advanced Labelling, Augmentation and Data Preprocessing
+	(3) Machine Learning Modeling Pipeline in Production
+		(a) Neural Architecture Search
+		(b) Model Resourse Management techniques
+		(c) High Performance Modeling
+		(d) Model Analysis
+		(e) Interpretability
+	(4) Deploying Machine Learning Models in Production
+		(a) Model Serving: Introduction
+		(b) Model Serving: Patterns and Infrastructure
+		(c) Model Management and Delivery
+		(d) Model Monitory and Lagging
+
+
+
